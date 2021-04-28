@@ -1,4 +1,4 @@
-###Simple todo list or task list, non styled, just funcionality
+### Simple todo list or task list, non styled, just funcionality
 
 
 
